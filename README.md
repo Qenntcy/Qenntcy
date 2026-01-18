@@ -1,5 +1,4 @@
-# Hola, soy Jarell
-
+# Hola, soy Qenntcy
 ### Desarrollador Backend en formación
 
 Apasionado por la arquitectura de software, el diseño limpio y la mejora continua.
