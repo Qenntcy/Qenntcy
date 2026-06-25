@@ -1,63 +1,81 @@
-# 👋 Hi, I'm Jarell
+```json
+{
+  "name": "Jarell",
+  "role": "Full Stack Developer",
+  "open_to_work": true,
+  "location": "Dominican Republic 🇩🇴",
 
-**Full Stack Developer** · .NET / Java · Angular / React · Cloud & Data
+  "backend": [
+    "C#", ".NET / ASP.NET Core", "Java",
+    "Spring Boot", "Entity Framework", "REST APIs"
+  ],
 
-> *"Code is the closest thing to magic that engineers get to practice."*
+  "frontend": [
+    "Angular", "React", "TypeScript",
+    "HTML5", "CSS3", "Tailwind CSS"
+  ],
+
+  "databases": [
+    "SQL Server", "PostgreSQL",
+    "MySQL", "MongoDB", "Redis"
+  ],
+
+  "devops": [
+    "Docker", "Azure", "CI/CD", "Git"
+  ],
+
+  "currently_learning": "Clean Architecture & Microservices",
+  "fun_fact": "I debug better with coffee ☕"
+}
+```
 
 ---
 
-## 🔧 Backend
+```bash
+$ git log --oneline --graph
+* a1b2c3d feat: ship full stack features daily
+* e4f5g6h fix: never stop learning
+* i7j8k9l chore: drink coffee, write clean code
+```
 
-![C#](https://img.shields.io/badge/C%23-6A0DAD?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%20%2F%20ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-7B5FB5?style=flat&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-43B883?style=flat)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+---
 
-## 🎨 Frontend
+## 🛠️ Tech Stack
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3%20%2F%20Tailwind-1572B6?style=flat&logo=css3&logoColor=white)
-
-## 🗄️ Data
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-## ⚙️ DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git%20%2F%20GitHub-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit%20%2F%20JUnit-9E9E9E?style=flat)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-555555?style=flat&logo=githubactions&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6A0DAD?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150"/>
 </p>
 
 ---
 
-## 🤝 Connect with me
+## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://tuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://tuportfolio.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=7B5FB5&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=6A0DAD&style=flat-square" />
 </p>
