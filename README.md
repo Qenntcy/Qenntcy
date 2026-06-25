@@ -1,149 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=140&section=header&text=Jarell&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
-### Full Stack Engineer · .NET · Java · Angular · React
-
-Building scalable applications, modern user experiences, and cloud-native solutions.
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7F77DD&style=flat-square&label=Profile+Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=header&text=Jarell&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
----
-
-## About
-
-```txt
-📍 Santo Domingo, Dominican Republic
-
-Focused on building reliable software across the entire stack.
-
-From backend services and database design
-to modern Angular and React applications.
-
-Passionate about clean architecture,
-system design and developer experience.
-```
-
----
-
-## Core Expertise
-
-### Backend
-
-```txt
-C#
-.NET / ASP.NET Core
-Java
-Spring Boot
-Entity Framework Core
-REST APIs
-Microservices
-Redis
-```
-
-### Frontend
-
-```txt
-Angular
-React
-TypeScript
-JavaScript
-Tailwind CSS
-HTML5 / CSS3
-```
-
-### Data
-
-```txt
-SQL Server
-PostgreSQL
-MongoDB
-Redis
-Database Design
-Query Optimization
-```
-
-### Cloud & DevOps
-
-```txt
-Azure
-Docker
-GitHub Actions
-CI/CD
-Git
-Linux
-```
-
----
-
-## Architecture
-
-```txt
-Clean Architecture
-Domain Driven Design (DDD)
-CQRS
-SOLID Principles
-Design Patterns
-Event-Driven Systems
-```
-
----
-
-## Featured Projects
-
-### 🏦 Banking API
-
-```txt
-.NET 8 • SQL Server • Docker
-```
-
-Enterprise-grade API following Clean Architecture and CQRS.
-
-### 🛒 E-Commerce Platform
-
-```txt
-Angular • ASP.NET Core • PostgreSQL
-```
-
-Full-featured commerce platform with authentication and payments.
-
-### 📊 Analytics Dashboard
-
-```txt
-React • .NET • SQL Server
-```
-
-Real-time dashboards and business reporting.
-
----
-
-## GitHub Stats
+<p align="center">
+  Building scalable systems end-to-end — from SQL schemas and .NET APIs to polished Angular and React interfaces.
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&icon_color=7F77DD&title_color=7F77DD" height="165"/>
+  I care about clean architecture, readable code, and shipping software that actually works.
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD" height="165"/>
+<p align="center">
+  🟢 <strong>Open to opportunities</strong> · 📍 Santo Domingo, Dominican Republic
 </p>
 
 ---
 
-> "Good software is built twice: first in architecture, then in code."
+## Stack
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-7F77DD?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-534AB7?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-3C3489?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-BA7517?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1D9E75?style=flat-square&logo=springboot&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-534AB7?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-085041?style=flat-square)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-185FA5?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0C447C?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-444441?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-D85A30?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1B5FA8?style=flat-square&logo=css3&logoColor=white)
+
+### Data
+![SQL Server](https://img.shields.io/badge/SQL%20Server-993C1D?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-185FA5?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-3B6D11?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-A32D2D?style=flat-square&logo=redis&logoColor=white)
+
+### DevOps
+![Git](https://img.shields.io/badge/Git-993C1D?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0C447C?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-042C53?style=flat-square&logo=microsoftazure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-444441?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## What I’m focused on
+
+- Clean Architecture in .NET
+- Microservices with Docker and API Gateway
+- System Design, scalability, and resilience
+- Modern UI development with Angular and React
+- Secure and maintainable backend services
+
+---
+
+## GitHub at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&icon_color=7F77DD&title_color=7F77DD" height="155"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD" height="155"/>
+</p>
+
+---
+
+## Currently learning
+
+- Clean Architecture patterns in .NET
+- Microservices and distributed systems
+- Advanced system design
+- Cloud deployment with Azure and Docker
+
+---
+
+> *“The best code is not the code that impresses the compiler — it is the code your future self can read at 2 AM and understand immediately.”*
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu@email.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=flat-square&logo=vercel&logoColor=white)](https://tuportfolio.com)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:your@email.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=flat-square\&logo=vercel\&logoColor=white)](https://yourportfolio.com)
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=7F77DD&style=flat-square&label=visitas" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&section=footer" width="100%"/>
 
+</div>
