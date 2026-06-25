@@ -1,99 +1,200 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=header&text=Jarell&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=130&section=header&text=Jarell&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" />
+
+# 👋 Hi, I'm Jarell
+
+### Full Stack Developer · .NET / Java · Angular / React · Cloud & Data
+
+<p align="center">
+Building scalable systems end-to-end — from database design and backend APIs to modern, responsive user experiences.
+</p>
+
+<p align="center">
+Open to opportunities • Santo Domingo, Dominican Republic 🇩🇴
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=650&lines=.NET+%26+ASP.NET+Core+Developer;Angular+%26+React+Developer;Java+%26+Spring+Boot;Cloud+%26+Microservices;Always+learning+new+technologies" />
 
 </div>
 
-<p align="center">
-  Building scalable systems end-to-end — from SQL schemas and .NET APIs to polished Angular and React interfaces.
-</p>
+---
 
-<p align="center">
-  I care about clean architecture, readable code, and shipping software that actually works.
-</p>
+## 🚀 About Me
 
-<p align="center">
-  🟢 <strong>Open to opportunities</strong> · 📍 Santo Domingo, Dominican Republic
-</p>
+```yaml
+name: Jarell
+role: Full Stack Developer
+
+specialties:
+  - Enterprise Applications
+  - REST APIs
+  - Cloud Solutions
+  - Microservices
+  - Frontend Architecture
+
+currently_learning:
+  - Clean Architecture
+  - System Design
+  - Kubernetes
+  - Distributed Systems
+
+philosophy:
+  "Build simple. Scale smart."
+```
 
 ---
 
-## Stack
+## ⚡ Tech Stack
 
 ### Backend
-![C#](https://img.shields.io/badge/C%23-7F77DD?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-534AB7?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-3C3489?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-BA7517?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1D9E75?style=flat-square&logo=springboot&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-534AB7?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-085041?style=flat-square)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring" />
+</p>
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-185FA5?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0C447C?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-444441?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-D85A30?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1B5FA8?style=flat-square&logo=css3&logoColor=white)
 
-### Data
-![SQL Server](https://img.shields.io/badge/SQL%20Server-993C1D?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-185FA5?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-3B6D11?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-A32D2D?style=flat-square&logo=redis&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind" />
+</p>
 
-### DevOps
-![Git](https://img.shields.io/badge/Git-993C1D?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0C447C?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-042C53?style=flat-square&logo=microsoftazure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-444441?style=flat-square&logo=githubactions&logoColor=white)
+### Databases
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
-## What I’m focused on
+### Cloud & DevOps
 
-- Clean Architecture in .NET
-- Microservices with Docker and API Gateway
-- System Design, scalability, and resilience
-- Modern UI development with Angular and React
-- Secure and maintainable backend services
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions,git,github" />
+</p>
 
----
+### Tools
 
-## GitHub at a glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&icon_color=7F77DD&title_color=7F77DD" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD" height="155"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman" />
 </p>
 
 ---
 
-## Currently learning
+## 🏗️ What I Work With
 
-- Clean Architecture patterns in .NET
-- Microservices and distributed systems
-- Advanced system design
-- Cloud deployment with Azure and Docker
+* ASP.NET Core & REST APIs
+* Entity Framework Core
+* Angular & React Applications
+* SQL Server & PostgreSQL
+* Authentication & Authorization (JWT)
+* Docker Containers
+* Azure Cloud Services
+* CI/CD Pipelines
+* Clean Architecture
+* Microservices
 
 ---
 
-> *“The best code is not the code that impresses the compiler — it is the code your future self can read at 2 AM and understand immediately.”*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&icon_color=7F77DD&title_color=7F77DD" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=7F77DD" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* Building scalable backend systems with .NET
+* Developing modern Angular & React applications
+* Learning advanced cloud architecture
+* Improving system design skills
+* Contributing to open-source projects
+
+---
+
+## 🌟 Featured Projects
+
+### 🏦 Banking API
+
+```txt
+.NET 8 • SQL Server • Docker • Clean Architecture
+```
+
+Enterprise-grade API focused on security, performance, and scalability.
+
+### 🛒 E-Commerce Platform
+
+```txt
+Angular • ASP.NET Core • PostgreSQL
+```
+
+Full-stack e-commerce application with authentication and payment integration.
+
+### 📊 Analytics Dashboard
+
+```txt
+React • .NET • SQL Server
+```
+
+Interactive dashboard with real-time metrics and reporting.
+
+---
+
+## 📈 GitHub at a Glance
+
+```txt
+public repositories     ∞
+
+main stack              .NET + Angular + React
+
+currently               Build & Ship
+
+focus                   Cloud Native Applications
+
+architecture            Clean Architecture
+```
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/TU_USUARIO">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:tu@email.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://tuportfolio.com">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=7F77DD&label=Profile+Views" />
+</p>
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu@email.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=flat-square&logo=vercel&logoColor=white)](https://tuportfolio.com)
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=7F77DD&style=flat-square&label=visitas" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&section=footer" width="100%"/>
+> *"Code is the closest thing to magic that engineers get to experience."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=90&section=footer" width="100%" />
+
